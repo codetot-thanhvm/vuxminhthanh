@@ -2,7 +2,6 @@
 
 ## I'm a Fresher Font-end, 4th year student at the hanoi university of mining and geology !!
 
-- 🔭 I just launched my first course: Become A VS Code SuperHero!!
 - 🌱 I'm learning to code at F8 and Evondev.
 - 🥅 I'm studying to be a font-end developer and then I will pursue to become a fullstalk.
 - ⚡ Fun fact: I like listening more than talking but with people with similar interests, I talk more than listen!
